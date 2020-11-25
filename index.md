@@ -1,4 +1,6 @@
 ---
+layout: home
+title: Welcome to my page!
 ---
 
 # Welcome!
