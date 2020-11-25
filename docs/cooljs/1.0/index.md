@@ -58,5 +58,7 @@ Anyways, you won't be creating apps now unless you use diffrent stuff with CoolJ
 
 ## When was CoolJS released?
 
-There isn't a release yet.
+At Wed Nov 25.
+
+[See .zip](docs.zip)
 
