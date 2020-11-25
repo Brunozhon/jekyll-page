@@ -8,3 +8,7 @@ title: Welcome to my page!
 ## Products
 
 [Full list](full-list/)
+
+## Blogs
+
+[Blog list](blog_list.html)
