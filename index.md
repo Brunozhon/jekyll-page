@@ -12,3 +12,5 @@ title: Welcome to my page!
 ## Blogs
 
 [Blog list](blog_list/p/1/)
+
+[Blog list too](blog_list.html)
