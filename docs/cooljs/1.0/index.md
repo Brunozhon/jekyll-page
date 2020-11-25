@@ -56,7 +56,7 @@ CoolJS.render(app, "#root")
 
 Anyways, you won't be creating apps now unless you use diffrent stuff with CoolJS
 
-## When was CoolJS be released?
+## When was CoolJS released?
 
 There isn't a release yet.
 
