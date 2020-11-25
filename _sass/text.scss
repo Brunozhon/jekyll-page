@@ -1,4 +1,5 @@
 $ff: Helvetica, sans-serif;
+$cf: "Lucida Console", Monaco, monospace;
 body {
   font-family: $ff;
 }
@@ -19,4 +20,7 @@ body {
 }
 .h6, h6 {
   font-size: 25px;
+}
+pre,code,samp,kbd {
+  font-family: $cf;
 }
