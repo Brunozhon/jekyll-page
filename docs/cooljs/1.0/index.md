@@ -62,3 +62,7 @@ At Wed Nov 25.
 
 [See .zip](docs.zip)
 
+## Quick!!! I have no time!
+
+[See the quickstart](quickstart/)
+
