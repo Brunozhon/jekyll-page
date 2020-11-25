@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }}</title>
+    {% include favorite_stylesheet.html %}
+  </head>
+  <body>
+    <p>Created by {{ page.author }}</p>
+    <hr/>
+    {{ content }}
+    <hr/>
+    {% include nav.html %}
+  </body>
+</html>
