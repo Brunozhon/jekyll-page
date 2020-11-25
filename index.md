@@ -11,4 +11,4 @@ title: Welcome to my page!
 
 ## Blogs
 
-[Blog list](blog_list.html)
+<!--[Blog list](blog_list.html)-->
