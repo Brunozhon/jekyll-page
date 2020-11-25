@@ -34,7 +34,7 @@ class Hello {
 CoolJS.render(new Hello(), "#root")
 ```
 
-There is no need to create new objects when you don't need thwm unless...
+There is no need to create new objects when you don't need them unless...
 
 ```javascript
 class App {
@@ -54,7 +54,7 @@ var app = new App()
 CoolJS.render(app, "#root")
 ```
 
-Anyways, you won't be creating apps now unless you use diffrent stuff with CoolJS
+Anyways, you won't be creating apps now unless you use diffrent stuff with CoolJS.
 
 ## When was CoolJS released?
 
